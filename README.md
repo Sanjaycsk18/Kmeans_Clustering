@@ -9,7 +9,7 @@
 
  •  Assigns each data point to its closest k-center. Those data points which are near to the particular k-center, create a cluster
 
-<img align='center'  src = " content://com.android.chrome.FileProvider/images/screenshot/16837139181596171336887782101026.png" >
+ ![image of Kmeans](https://datascience.eu/wp-content/uploads/2019/12/Screenshot-2020-10-17-at-13.30.08-978x652.png)
 
 ## Working of Kmeans Algorithm 
 
