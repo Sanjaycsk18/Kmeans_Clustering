@@ -9,7 +9,7 @@
 
  •  Assigns each data point to its closest k-center. Those data points which are near to the particular k-center, create a cluster
 
- ![image of Kmeans](https://datascience.eu/wp-content/uploads/2019/12/Screenshot-2020-10-17-at-13.30.08-978x652.png)
+ ![image of Kmeans](https://serokell.io/files/q4/q49pm3tx.K-Means_Clustering_Algorithm_pic1_(1).png)
 
 ## Working of Kmeans Algorithm 
 
@@ -34,6 +34,6 @@
  The Elbow method is one of the most popular ways to find the optimal number of clusters. This method uses the concept of WCSS value. WCSS stands for Within Cluster Sum of Squares, which defines the total variations within a cluster. The formula to calculate the value of WCSS (for 3 clusters) is given below:
  
   WCSS= ∑P<sub>i</sub> <sub> in Cluster1</sub> distance(P<sub>i</sub> C<sub>1</sub>)² + ∑P<sub>i</sub> <sub>in Cluster2</sub> distance(P<sub>i</sub> C<sub>2</sub>)² + ∑P<sub>i</sub> <sub>in Cluster3</sub> distance(P<sub>i</sub> C<sub>3</sub>)²
-   <img align = 'center' src = "content://com.android.chrome.FileProvider/images/screenshot/16837146169233342773952767794435.png">
   
   
+   ![image of elbow method](https://media.geeksforgeeks.org/wp-content/uploads/20230418184509/download-(7).png)
